@@ -4,10 +4,10 @@
 
 
 ## Project Overview
-Accurate demand prediction is of utmost importance in the retail industry, as it enables retailers to optimize operations, meet customer demands, and drive profitability. This project focuses on comparing the performance of two forecasting algorithms, namely Facebook's univariate Prophet algorithm and multivariate LSTM-based algorithm, specifically tailored for demand prediction using Walmart's dataset. By evaluating their accuracy and efficiency, the project aims to determine the superior algorithm for predicting aggregated weekly sales. The outcomes of this project have the potential to provide Walmart with a competitive edge in the dynamic retail market by enabling precise demand forecasting and informed decision-making for inventory management. The project's findings will also contribute to the broader understanding of which algorithm is better suited for the nature of the dataset at hand, promoting more accurate and tailored demand forecasting for the retail industry.
+Accurate demand prediction is of utmost importance in the retail industry, as it enables retailers to optimize inventory, meet customer demands, and drive profitability. This project focuses on comparing the performance of two forecasting algorithms, namely Facebook's univariate Prophet algorithm and multivariate LSTM-based algorithm, specifically tailored for demand prediction using the [Walmart dataset](<https://www.kaggle.com/datasets/yasserh/walmart-dataset>). By evaluating their accuracy and efficiency, the project aims to determine the superior algorithm for predicting aggregated weekly sales. The outcomes of this project have the potential to provide Walmart with a competitive edge in the dynamic retail market by enabling precise demand forecasting and informed decision-making for inventory management. The project's findings will also contribute to the broader understanding of which algorithm is better suited for the nature of the dataset at hand, promoting more accurate and tailored demand forecasting for the retail industry.
 
 ## Dataset Overview
-The [dataset](<https://www.kaggle.com/datasets/yasserh/walmart-dataset>) provides historical sales data from 2010-02-05 to 2012-11-01. It contains the following fields:
+The dataset used provides historical sales data from 2010-02-05 to 2012-11-01. It contains the following fields:
 
 - Store: Represents the store number.
 - Date: Indicates the week of sales.
